@@ -1,5 +1,6 @@
 /* 
 Write a function that checks if a string is palindrome. You can personalize the main function to check various strings. 
+The empty string is supposed to be palindrome. 
 */ 
 
 #include <iostream> 
