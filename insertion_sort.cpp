@@ -50,6 +50,6 @@ int main()
     int size = sizeof(array)/sizeof(array[0]);
  
     insertion_sort(array, size);
-    print_array(array, size);
-	return 0;
+    print_array(array, size); 
+    return 0;
 } 
