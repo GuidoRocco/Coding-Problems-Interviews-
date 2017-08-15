@@ -3,6 +3,7 @@ Solves the FizzBuzz problem: that is, write a loop from 1 to 100. If the number 
 If it is divisible by 5, print Buzz. If it is divisible by 3 and 5, print FizzBuzz. 
 Else, print the number. 
 */ 
+
 #include <iostream> 
 using namespace std; 
 
