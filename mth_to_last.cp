@@ -21,7 +21,7 @@ struct Node
     int value; 
     struct Node * next; 
     struct Node * prev; 
-} 
+}
 ; 
 
 void split(const string& s, char delim,vector<string>& v) {
