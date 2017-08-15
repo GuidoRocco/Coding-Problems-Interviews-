@@ -3,7 +3,9 @@ from the end of the list.
 For this program, we will use 1-indexing. That means mth_to_last(1) is the "1st-to-last" element, or simply the last element in the list. 
 If the index is invalid, print "NIL" instead. 
 You must solve this problem using (double-)linked lists. 
-Source: HackerRank (www.hackerrank.com), Codinf for Interview practice problems. 
+Suppose that the input will consist of two lines. The first line contains the value of M. The second line contains the values of L, 
+each separated by a space character.
+Source: HackerRank (www.hackerrank.com), Coding for Interview practice problems. 
 */ 
 
 #include <cmath>
