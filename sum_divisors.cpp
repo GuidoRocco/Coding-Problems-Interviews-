@@ -9,8 +9,6 @@ using namespace std;
 
 int sum_divisors(int num) 
 {
-	if(num < 2) 
-	  return 1; 
 	int i = 1; 
 	int count = 0; 
 	while(i < num) 
