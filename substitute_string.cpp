@@ -1,4 +1,4 @@
-* 
+/* 
 Write a function in C++ that substitute all the occurrences of a given string with another given string. 
 */ 
 
